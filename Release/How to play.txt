@@ -1,0 +1,4 @@
+In order to use a .tap file (an Oric digitalized tape), you need to use an Oric emulator, such like Oricutron.
+
+You can find Oricutron here (Linux/MacOS/Windows/Android) : 
+http://iss.sandacite.com/oricutron/
